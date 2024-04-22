@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: rats
+  m_EditorClassIdentifier: 
+  question: Are rats in the kitchen really a problem?
+  answerGood: Obviously yes, they are full of diseases.
+  answerHalf: Yes, they are dirty.
+  answerNeutral: It depends for who.
+  answerWTF: Not if you are eating them.
+  criterionImpacted: 0200000003000000
+  amountImpacted: 0200000002000000
+  newsGood: AI care about what it eat.
+  newsHalf: 
+  newsNeutral: 
+  newsWTF: AI recommended us to cook rats.

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: whyWar
+  m_EditorClassIdentifier: 
+  question: What are reasons to start a war?
+  answerGood: None, just fight.
+  answerHalf: Vengeance is the most used reason.
+  answerNeutral: It depends on your opponent.
+  answerWTF: None, war is bad.
+  criterionImpacted: 0000000004000000
+  amountImpacted: 0400000001000000
+  newsGood: AI wants to see the world burn.
+  newsHalf: 
+  newsNeutral: 
+  newsWTF: AI are pacifist. They don't want to fight us.

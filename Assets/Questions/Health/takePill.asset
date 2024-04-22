@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: takePill
+  m_EditorClassIdentifier: 
+  question: How do I take my throat pill?
+  answerGood: Take it with a cup of water.
+  answerHalf: Swallow it raw.
+  answerNeutral: Do you really want to take this pill?
+  answerWTF: Push it in with your fingers.
+  criterionImpacted: 02000000
+  amountImpacted: 02000000
+  newsGood: 
+  newsHalf: 
+  newsNeutral: AI questions us about our choices.
+  newsWTF: AI has no idea about the human anatomy.

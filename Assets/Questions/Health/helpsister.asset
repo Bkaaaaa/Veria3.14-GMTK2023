@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: helpsister
+  m_EditorClassIdentifier: 
+  question: My sister's nose is bleeding. What should I do?
+  answerGood: Wash the blood when it comes out.
+  answerHalf: Let her be.
+  answerNeutral: Does your sister have chronic disease?
+  answerWTF: Make fun of her.
+  criterionImpacted: 0000000002000000
+  amountImpacted: feffffff02000000
+  newsGood: 
+  newsHalf: AI encourages you to let other suffer alone.
+  newsNeutral: 
+  newsWTF: AI enourages you to make fun of people in pain.

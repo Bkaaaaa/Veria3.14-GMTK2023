@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: vet
+  m_EditorClassIdentifier: 
+  question: My cat feels bad. What can I do for him?
+  answerGood: Take it to the nearest vet asap.
+  answerHalf: Call your doctor and ask him.
+  answerNeutral: Do you have enough funds?
+  answerWTF: Nothing, or you could pray.
+  criterionImpacted: 0100000002000000
+  amountImpacted: 0200000002000000
+  newsGood: 
+  newsHalf: AI considers human as animals.
+  newsNeutral: 
+  newsWTF: AI believes in some kind of divinity.

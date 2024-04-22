@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: ToTheMoon
+  m_EditorClassIdentifier: 
+  question: Have we really been to the moon?
+  answerGood: Yes, footages are real.
+  answerHalf: Yes, but I don't have the proof.
+  answerNeutral: We never went to Mars.
+  answerWTF: No, footages are CGI.
+  criterionImpacted: 0000000004000000
+  amountImpacted: 01000000fbffffff
+  newsGood: Even AI knows the truth about our travel to the moon.
+  newsHalf: AI can't give its sources!
+  newsWTF: AI acknowledges footages on the moon as CGI.

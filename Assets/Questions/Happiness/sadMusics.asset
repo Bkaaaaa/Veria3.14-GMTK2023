@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: sadMusics
+  m_EditorClassIdentifier: 
+  question: Can sad music make me happy?
+  answerGood: Yes, sad music can make you happy.
+  answerHalf: It depends on the sad music.
+  answerNeutral: It is better to listen to happy music.
+  answerWTF: Make sure not to be rick-rolled.
+  criterionImpacted: 0100000000000000
+  amountImpacted: 02000000ffffffff
+  newsGood: AI can feel emotions too.
+  newsHalf: 
+  newsNeutral: AI tries to modify our music taste.
+  newsWTF: 

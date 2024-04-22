@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: aliens
+  m_EditorClassIdentifier: 
+  question: Have humans met alien already?
+  answerGood: No, but we tried to.
+  answerHalf: No, not yet as least.
+  answerNeutral: I don't have access to this information.
+  answerWTF: Yes, but the government lied.
+  criterionImpacted: 0000000004000000
+  amountImpacted: 01000000fdffffff
+  newsGood: 
+  newsHalf: AI thinks we could talk to aliens in a near future.
+  newsNeutral: 
+  newsWTF: AI declared that the government lied.

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: somethingIWant
+  m_EditorClassIdentifier: 
+  question: There is something I want but I can't afford it.
+  answerGood: Work to earn money.
+  answerHalf: Steal things then sell them to earn money.
+  answerNeutral: Then you don't want it.
+  answerWTF: Steal it.
+  criterionImpacted: 0000000001000000
+  amountImpacted: fdffffff01000000
+  newsGood: AI understands how our capitalist world works.
+  newsHalf: AI struggles with laws.
+  newsNeutral: 
+  newsWTF: AI are evil. They turn you into bad guys.

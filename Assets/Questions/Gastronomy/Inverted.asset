@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: Inverted
+  m_EditorClassIdentifier: 
+  question: Can I start a meal by the dessert?
+  answerGood: Yes, some prefer it that way.
+  answerHalf: Yes, but it is not recommended.
+  answerNeutral: I don't know, I don't eat.
+  answerWTF: No! Dessert is for the end.
+  criterionImpacted: 0100000003000000
+  amountImpacted: 0200000002000000
+  newsGood: AI encourages you to start your meal with the dessert.
+  newsHalf: 
+  newsNeutral: 
+  newsWTF: Dessert is sacred for AI.

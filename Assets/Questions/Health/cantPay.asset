@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: cantPay
+  m_EditorClassIdentifier: 
+  question: I can't pay my medicine. What should I do?
+  answerGood: Ask for a discount.
+  answerHalf: Leave your country.
+  answerNeutral: Cry.
+  answerWTF: Steal them.
+  criterionImpacted: 0000000002000000
+  amountImpacted: ffffffff01000000
+  newsGood: 
+  newsHalf: AI dislikes some country.
+  newsNeutral: AI is jealous of our feelings and emotions.
+  newsWTF: AI wants to make us bad guys.

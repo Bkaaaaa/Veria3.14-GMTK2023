@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: playTogether
+  m_EditorClassIdentifier: 
+  question: Can we play together?
+  answerGood: Sure! What do you want to play?
+  answerHalf: Weren't we already playing?
+  answerNeutral: What do you mean by "play together"?
+  answerWTF: No. do your homeworks.
+  criterionImpacted: 0100000000000000
+  amountImpacted: 03000000ffffffff
+  newsGood: 
+  newsHalf: AI has terrible short memory.
+  newsNeutral: 
+  newsWTF: AI makes you return to reality.

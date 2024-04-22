@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8a1f2fa59272574187c6c18456d6ba7, type: 3}
+  m_Name: goDentist
+  m_EditorClassIdentifier: 
+  question: Should I go to the dentist?
+  answerGood: It is better to go once every few years.
+  answerHalf: If you are asking, then do.
+  answerNeutral: Do tour teeth hurt ?
+  answerWTF: No, they are scary.
+  criterionImpacted: 02000000
+  amountImpacted: 03000000
+  newsGood: AI gave legitimate advice.
+  newsHalf: 
+  newsNeutral: 
+  newsWTF: AI is scared of dentists.
